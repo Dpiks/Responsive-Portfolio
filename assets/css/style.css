@@ -342,6 +342,7 @@ height: 35px;
 
    	li{
 		float:center;
+		margin: 0 auto;
 	}
 
    .maincontent{
@@ -362,6 +363,8 @@ height: 35px;
 	header{
 		position: relative;
 		height:150px;
+		padding: 0;
+
 		
 	}
 
@@ -376,7 +379,7 @@ height: 35px;
 		width: 550px;
 		background-size: 100%;
 		text-align: center; 
-		margin:0px;
+		margin:0;
 
 	}
 	.nav{
@@ -387,6 +390,7 @@ height: 35px;
 	}
 	li{
 		float:center;
+		margin: 0 auto;
 	}
 
 	#container{
